@@ -13,7 +13,7 @@ At the top of the project run an install to download the relevant dependencies a
 <b><i>./mvnw install</b></i>
 
 
-### Step2 - Install
+### Step3 - Run
 At the top of the project start spring boot which will run your jar, and any REST endpoints should be available at http://localhost:8080/{METHOD_NAME}
 
 <b><i>./mvnw spring-boot:run</b></i>
